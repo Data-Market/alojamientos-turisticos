@@ -11,8 +11,8 @@ Anuncios de inmuebles de __alquiler turístico en las principales plataformas__.
 Las características de este dataset son las siguientes:
 
 * __Frecuencia de actualización__: cada 7 días
-* __Volumen estimado__: 
-* __Histórico__: 
+* __Volumen estimado__: variable debido a la Covid-19
+* __Histórico__: desde febrero 2021
 
 El dataset completo se puede adquirir en [DataMarket](https://datamarket.es/#alojamientos-turisticos-dataset), plataforma de referencia de datos externos en España. 
 
