@@ -45,7 +45,7 @@ A continuación se muestran las columnas de las que consta el dataset junto con 
 | country | str | País en el que se encuentra el alojamiento turístico. | Spain |
 | description | str | Descripción detallada del alojamiento turístico. | Viviendas Villalobos is located in Seville, 2.1 km from Plaza de España. This property is 3 km fr... |
 | first_review_date | datetime | Fecha del primer comentario del alojamiento turístico. | 2017-05-01 |
-| has_availability | bool | Disponibilidad o no reserva del alojamiento turístico. | True | 
+| has_availability | bool | Disponibilidad para reservar el alojamiento turístico. | True | 
 | host_id | int | Número de identificación de la persona que pone a disposición un apartamento turístico. | 90583625 |
 | insert_date | datetime | Fecha de extracción de la información. | 2018-07-31 |
 | is_instant_bookable | bool | Si puede reservarse sin necesidad de revisión por parte del propietario. | True |
