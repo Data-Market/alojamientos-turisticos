@@ -1,7 +1,7 @@
 # Datasets de Alojamientos Turísticos
 
 <a href="https://datamarket.es">
-  <img src="https://datamarket.es/static/core/img/banners/alojamientos-turisticos-banner.png">
+  <img src="https://datamarket.es/media/banners/alojamientos-turisticos-banner.png">
 </a>
 
 ## Descripción
