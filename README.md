@@ -12,7 +12,7 @@ Las características de este dataset son las siguientes:
 
 * __Frecuencia de actualización__: cada mes
 * __Volumen estimado__: variable debido a la Covid-19
-* __Histórico__: desde enero 2017
+* __Histórico__: desde enero 2017 en adelante
 
 El dataset completo se puede adquirir en [DataMarket](https://datamarket.es/#alojamientos-turisticos-dataset), plataforma de referencia de datos externos en España. 
 
